@@ -1,8 +1,12 @@
 # Cough-Sound-Classifiction
 Digital Signal Processing mini project that classifies cough sounds (Covid, Tuberculosis, Healthy) using MATLAB and DSP tools.
 
+
+# DSP Mini Project — Cough Classification 🩺🎧
+
 This project was developed as part of my Digital Signal Processing mini-project.  
 The main idea is to classify different cough sounds (Covid, Tuberculosis, and Healthy) using basic DSP techniques, MATLAB and Machine Learning. The goal was to apply concepts learned in class to a real-world health-related problem.
+
 
 ## 📌 Project Summary
 
@@ -16,11 +20,13 @@ The main idea is to classify different cough sounds (Covid, Tuberculosis, and He
 
 This is a simple but practical project to explore how DSP can be used in the medical field.
 
+
 ## 🧰 Tools & Techniques
 
 - **Language:** MATLAB  
 - **Concepts Used:** Digital Signal Processing, Audio Feature Extraction, Random Forest Classifier  
 - **Dataset:** Cough audio files collected from public datasets, a website called coughvid
+
 
 ## 📁 Folder Structure
 DSP_Project
